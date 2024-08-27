@@ -15,6 +15,6 @@ This project contains the data pipeline for training and testing a balanced rand
 
 ### Methods used
 -	Balanced Random Forest (BRF)
+-   k-fold cross validation
 -   Precision-Recall
--   AUC curve
 -   Sensitivity testing
